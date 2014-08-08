@@ -1,0 +1,31 @@
+{
+    "name"          : "lamo2k123.brackets-tree-extension-color",
+    "title"         : "Brackets Tree Extension Color",
+    "description"   : "Tree file extension colorize.",
+    "homepage"      : "",
+    "version"       : "1.0.0",
+    "author": {
+        "name"  : "Alexsey Novikov",
+        "email" : "lamo2k123@gmail.com",
+        "url"   : "https://github.com/lamo2k123"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/lamo2k123/brackets-tree-extension-color.git"
+    },
+    "bugs": {
+        "url": "https://github.com/lamo2k123/brackets-tree-extension-color/issues",
+        "email": "lamo2k123@gmail.com"
+    },
+    "license" : "MIT",
+    "keywords": [
+		"tree",
+        "color",
+		"extension"
+    ],
+    "engines": {
+        "brackets": ">=0.41.0"
+    },
+    "files" : [],
+    "categories" : "visual"
+}
