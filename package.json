@@ -3,7 +3,7 @@
     "title"         : "Brackets Tree Extension Color",
     "description"   : "Tree file extension colorize.",
     "homepage"      : "",
-    "version"       : "1.0.0",
+    "version"       : "1.0.1",
     "author": {
         "name"  : "Alexsey Novikov",
         "email" : "lamo2k123@gmail.com",
@@ -26,6 +26,5 @@
     "engines": {
         "brackets": ">=0.41.0"
     },
-    "files" : [],
     "categories" : "visual"
 }
